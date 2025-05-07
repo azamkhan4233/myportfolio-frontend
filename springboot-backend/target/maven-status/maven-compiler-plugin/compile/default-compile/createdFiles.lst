@@ -1,0 +1,4 @@
+com\myportfolio\dto\ContactForm.class
+com\myportfolio\MyPortfolioApplication.class
+com\myportfolio\service\EmailService.class
+com\myportfolio\controller\ContactController.class
